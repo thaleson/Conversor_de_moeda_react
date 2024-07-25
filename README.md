@@ -25,7 +25,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente:
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/thaleson/Conversor_de_moeda_react
    ```
 
    Substitua `username` e `repository-name` com seu nome de usuário e nome do repositório no GitHub.
