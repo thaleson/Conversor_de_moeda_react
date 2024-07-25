@@ -2,7 +2,7 @@
 
 import styled from 'styled-components';
 
-
+import backgroudmoead from '../assets/imgs/imgback.png';
 /**
  * Contêiner de fundo da página.
  * 
@@ -14,9 +14,9 @@ import styled from 'styled-components';
  * @returns {StyledComponent} Um componente estilizado para o fundo da página.
  */
 
-const BACKGROUND_IMAGE = '../assets/imgs/background.png';
+
 export const Background = styled.div`
-  background: url(${BACKGROUND_IMAGE}) no-repeat center center fixed;
+  background: url(${backgroudmoead}) no-repeat center center fixed;
   background-size: cover;
   width: 100%;
   height: 100vh;
