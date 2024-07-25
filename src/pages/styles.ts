@@ -1,7 +1,7 @@
 // src/pages/styles.ts
 
 import styled from 'styled-components';
-import moedaback from '../assets/imgs/backgroundd.jpg'
+
 
 /**
  * Contêiner de fundo da página.
@@ -14,7 +14,8 @@ import moedaback from '../assets/imgs/backgroundd.jpg'
  * @returns {StyledComponent} Um componente estilizado para o fundo da página.
  */
 export const Background = styled.div`
-  background: url(${moedaback}) no-repeat center center fixed;
+   
+  background: url('/src/assets/imgs/background.jpg') no-repeat center center fixed;
   background-size: cover;
   width: 100%;
   height: 100vh;
