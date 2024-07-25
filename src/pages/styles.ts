@@ -13,9 +13,10 @@ import styled from 'styled-components';
  * @component
  * @returns {StyledComponent} Um componente estilizado para o fundo da página.
  */
+
+const BACKGROUND_IMAGE = '../assets/imgs/background.png';
 export const Background = styled.div`
-   
-  background: url('/src/assets/imgs/background.jpg') no-repeat center center fixed;
+  background: url(${BACKGROUND_IMAGE}) no-repeat center center fixed;
   background-size: cover;
   width: 100%;
   height: 100vh;
