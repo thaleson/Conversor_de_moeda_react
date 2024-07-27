@@ -60,7 +60,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente:
    yarn dev
    ```
 
-   O aplicativo estará disponível em [http://localhost:3000](http://localhost:3000).
+   O aplicativo estará disponível em [https://conversor-de-moeda-react.vercel.app/](https://conversor-de-moeda-react.vercel.app/).
 
 ## 🖼️ Screenshots
 
